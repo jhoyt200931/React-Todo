@@ -1,0 +1,18 @@
+.task{
+    border: 1px solid black;
+    height: 50px;
+    width: 45%;
+    background-color: papayawhip;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.task-complete{
+    border: 1px solid black;
+    height: 50px;
+    width: 45%;
+    background-color: lightgray;
+    text-decoration: line-through;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
